@@ -12,7 +12,7 @@ source ~/.beast/virtual/bin/activate
 
 cd ~/.beast
 
-git clone https://github.com/allegro/ralph_beast.git@beast
+git clone https://github.com/allegro/ralph_beast.git
 git checkout beast
 cd ralph_beast
 pip install -e .
